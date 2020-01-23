@@ -1,7 +1,7 @@
 # Doctor-Me-disease-predictor-app
 Full stack MERN web application for prediction of three diseases-heart disease,diabetes,breast cancer.Prediction model built using python and django. 
 Steps to run:
-1.Copy everything to a folder and open Vscode.
+1.Copy everything to a folder and open Vscode.\n
 2.Navigate to the folder and type npm install.
 3.Navigate to client folder and again type npm install.
 4.Open python command prompt and create a new virtual env.
